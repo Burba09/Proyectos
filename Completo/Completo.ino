@@ -1,5 +1,5 @@
-//Autores//
-//Laura Sofia Chanchí y Felipe Burbano//
+//***Autores***//
+//***Laura Sofia Chanchí y Felipe Burbano***//
 
 #include <Keypad.h>
 //#include <SoftwareSerial.h>
