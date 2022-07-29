@@ -1,5 +1,8 @@
-//***Autores***//
-//***Laura Sofia Chanchí y Felipe Burbano***//
+/********************/
+/* CASA INTELIGENTE */
+/********************/
+
+/*** Laura Sofia Chanchí y Felipe Burbano ***/
 
 #include <Keypad.h>
 //#include <SoftwareSerial.h>
