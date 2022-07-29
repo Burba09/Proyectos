@@ -1,3 +1,6 @@
+//Autores//
+//LAura Sofia Chanchí y Felipe Burbano//
+
 #include <Keypad.h>
 //#include <SoftwareSerial.h>
 #include <Servo.h>
